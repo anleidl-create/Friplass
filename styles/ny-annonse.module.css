@@ -1,0 +1,200 @@
+.shell {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 24px 16px 48px;
+}
+
+.card {
+  background: #fff;
+  border: 1px solid #e7e7e7;
+  border-radius: 16px;
+  padding: 18px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+}
+
+.header {
+  margin-bottom: 14px;
+}
+
+.kicker {
+  font-size: 13px;
+  color: #666;
+}
+
+.title {
+  font-size: 22px;
+  margin: 6px 0 0;
+}
+
+.progressRow {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.pill {
+  flex: 1;
+  height: 10px;
+  border-radius: 999px;
+  background: #eee;
+}
+
+.pillActive {
+  background: #111;
+}
+
+.form {
+  display: grid;
+  gap: 14px;
+  margin-top: 14px;
+}
+
+.field {
+  display: grid;
+  gap: 6px;
+}
+
+.label {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.input,
+.select,
+.textarea {
+  border: 1px solid #d6d6d6;
+  border-radius: 12px;
+  padding: 12px;
+  font-size: 15px;
+}
+
+.textarea {
+  resize: vertical;
+}
+
+.hint {
+  font-size: 13px;
+  color: #666;
+}
+
+.error {
+  font-size: 13px;
+  color: #b00020;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 6px;
+}
+
+.button {
+  border: 0;
+  border-radius: 12px;
+  padding: 12px 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.primary {
+  background: #111;
+  color: white;
+}
+
+.secondary {
+  background: #f2f2f2;
+  color: #111;
+}
+
+.checkGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 10px;
+}
+
+.checkItem {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 12px;
+  border: 1px solid #e7e7e7;
+  border-radius: 12px;
+  background: #fafafa;
+}
+.summaryWrap {
+  display: grid;
+  gap: 14px;
+}
+
+.summaryGrid {
+  display: grid;
+  gap: 12px;
+}
+
+.summaryCard {
+  border: 1px solid #e7e7e7;
+  border-radius: 16px;
+  padding: 14px;
+  background: #fff;
+}
+
+.summaryTitle {
+  font-weight: 800;
+  margin-bottom: 10px;
+}
+
+.summaryRow {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 6px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.summaryRow:last-child {
+  border-bottom: 0;
+}
+
+.summaryBlock {
+  padding: 8px 0;
+}
+
+.summaryLabel {
+  font-size: 13px;
+  color: #666;
+  margin-bottom: 6px;
+}
+
+.summaryText {
+  font-size: 14px;
+  white-space: pre-wrap;
+}
+.dateGrid {
+  display: grid;
+  gap: 12px;
+}
+
+@media (min-width: 640px) {
+  .dateGrid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.savedBadge {
+  position: fixed;
+  bottom: 18px;
+  right: 18px;
+  background: #111;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.savedBadgeVisible {
+  opacity: 1;
+  transform: translateY(0);
+}

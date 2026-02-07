@@ -1,0 +1,114 @@
+.outer {
+  margin-bottom: 12px;
+}
+
+.cardLink {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.cardLink:active {
+  transform: scale(0.99);
+  opacity: 0.96;
+}
+
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 14px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.imageWrap {
+  position: relative;
+}
+
+.image {
+  width: 100%;
+  height: 240px;
+  object-fit: cover;
+  display: block;
+  background: #f3f3f3;
+}
+
+.rightSlot {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  gap: 8px;
+}
+
+.content {
+  padding: 14px 16px;
+}
+
+.title {
+  font-size: 16px;
+  line-height: 1.25;
+  margin: 0;
+}
+
+.meta {
+  margin-top: 6px;
+  font-size: 13px;
+  opacity: 0.75;
+}
+
+.footer {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.price {
+  font-size: 16px;
+  font-weight: 650;
+}
+
+.chev {
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+.bottomSlot {
+  margin-top: 8px;
+}
+
+/* ===== Mobil-polish ===== */
+@media (max-width: 640px) {
+  .card {
+    border-radius: 10px;
+  }
+
+  .image {
+    height: 180px;
+  }
+
+  .content {
+    padding: 10px 12px;
+  }
+
+  .title {
+    font-size: 15px;
+  }
+
+  .meta {
+    font-size: 13px;
+  }
+
+  .price {
+    font-size: 15px;
+  }
+}
+/* Viktig: hindrer at Link blir en "overlay" som stjeler klikk */
+.cardLink,
+.cardLinkSafe {
+  position: static !important;
+  inset: auto !important;
+  display: block;
+  z-index: auto !important;
+}

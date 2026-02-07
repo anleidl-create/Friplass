@@ -1,4 +1,3 @@
-// app/utforsk/page.tsx
 import UtforskClient from "./UtforskClient";
 
 export const metadata = {

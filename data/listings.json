@@ -1,0 +1,292 @@
+[
+  {
+    "images": [
+      {
+        "url": "/uploads/1770411540120-c87d2eda458328.jpg"
+      }
+    ],
+    "title": "Båtplass i Oslo",
+    "description": "Båtplass i sentrum av Oslo. Strøm",
+    "address": "Mandal",
+    "pricePerNight": 650,
+    "locationText": "Mandal",
+    "location": {
+      "address": "Mandal"
+    },
+    "price": {
+      "perNight": 650,
+      "currency": "NOK"
+    },
+    "mainImageUrl": "/uploads/1770411540120-c87d2eda458328.jpg",
+    "ownerDeviceId": "8d63265b-65fd-4eb3-a373-2f540aac42c2",
+    "id": "070a6468-0a16-4fb6-a8ec-80b0e05fc68d",
+    "createdAt": "2026-02-06T21:00:01.347Z",
+    "category": "batplass"
+  },
+  {
+    "images": [
+      {
+        "url": "/uploads/1770409955861-fac7c6866f6b18.jpg"
+      }
+    ],
+    "title": "Camping",
+    "description": "Fin teltplass ved sjøen på Skjelbred.",
+    "pricePerNight": 150,
+    "address": "Egersund",
+    "locationText": "Egersund",
+    "location": {
+      "address": "Egersund"
+    },
+    "price": {
+      "perNight": 150,
+      "currency": "NOK"
+    },
+    "mainImageUrl": "/uploads/1770409955861-fac7c6866f6b18.jpg",
+    "ownerDeviceId": "dev_1698d31699dbe_1769624205556",
+    "id": "2a838c66-4ee0-4a92-98e9-2c7a4232186e",
+    "createdAt": "2026-02-06T20:33:21.969Z",
+    "category": "campingplass"
+  },
+  {
+    "images": [
+      {
+        "url": "/uploads/1770409955861-fac7c6866f6b18.jpg"
+      }
+    ],
+    "title": "Camping",
+    "description": "Fin teltplass ved sjøen på Skjelbred.",
+    "pricePerNight": 150,
+    "address": "Egersund",
+    "locationText": "Egersund",
+    "location": {
+      "address": "Egersund"
+    },
+    "price": {
+      "perNight": 150,
+      "currency": "NOK"
+    },
+    "mainImageUrl": "/uploads/1770409955861-fac7c6866f6b18.jpg",
+    "ownerDeviceId": "dev_1698d31699dbe_1769624205556",
+    "id": "25e9a7e4-5ecb-47a7-857a-ba1f570357da",
+    "createdAt": "2026-02-06T20:32:45.950Z",
+    "category": "campingplass"
+  },
+  {
+    "images": [
+      {
+        "url": "/uploads/1769969447167-49d6d0bd7a86d8.jpg"
+      }
+    ],
+    "title": "Campingplass",
+    "description": "Plass ved sjøen til både telt og campingvogn.",
+    "address": "Flekkefjord",
+    "pricePerNight": 150,
+    "locationText": "Flekkefjord",
+    "location": {
+      "address": "Flekkefjord"
+    },
+    "price": {
+      "perNight": 150,
+      "currency": "NOK"
+    },
+    "mainImageUrl": "/uploads/1769969447167-49d6d0bd7a86d8.jpg",
+    "ownerDeviceId": "dev_1698d31699dbe_1769624205556",
+    "id": "d999ef6d-b39c-4c1f-b341-b58892e04006",
+    "createdAt": "2026-02-01T18:10:56.489Z",
+    "category": "campingplass"
+  },
+  {
+    "images": [
+      {
+        "url": "/uploads/1769794039519-e66d757d639f4.jpg"
+      }
+    ],
+    "title": "Båtplass i Mandal",
+    "description": "Båtplass i sentrum av mandal. Strøm",
+    "address": "Mandal",
+    "pricePerNight": 650,
+    "locationText": "Mandal",
+    "location": {
+      "address": "Mandal"
+    },
+    "price": {
+      "perNight": 650,
+      "currency": "NOK"
+    },
+    "mainImageUrl": "/uploads/1769794039519-e66d757d639f4.jpg",
+    "ownerDeviceId": "8d63265b-65fd-4eb3-a373-2f540aac42c2",
+    "id": "6ebf0933-5f08-4f21-9092-5fe5a44b7786",
+    "status": "published",
+    "createdAt": "2026-01-30T17:29:12.342Z",
+    "category": "batplass"
+  },
+  {
+    "title": "Båtplas nær sentrum",
+    "locationText": "",
+    "location": {},
+    "description": "Fin båtplass nær sentrum",
+    "suitability": [],
+    "availableFrom": "",
+    "availableTo": "",
+    "images": [
+      {
+        "url": "/uploads/1769793208421-67bd099ff00c2.jpg"
+      }
+    ],
+    "price": {
+      "perNight": 350,
+      "currency": "NOK"
+    },
+    "address": "Egersund",
+    "pricePerNight": 350,
+    "mainImageUrl": "/uploads/1769793208421-67bd099ff00c2.jpg",
+    "ownerDeviceId": "8d63265b-65fd-4eb3-a373-2f540aac42c2",
+    "id": "4803ea64-0d9d-471d-93d3-05883649092d",
+    "status": "published",
+    "createdAt": "2026-01-30T17:13:35.533Z",
+    "category": "batplass"
+  },
+  {
+    "title": "Campingplass",
+    "locationText": "",
+    "location": {},
+    "description": "Fin plass like ved elv. Mulighet for fiske",
+    "suitability": [],
+    "availableFrom": "",
+    "availableTo": "",
+    "images": [
+      {
+        "url": "/uploads/1769790930029-8502889fc8884.jpg"
+      }
+    ],
+    "price": {
+      "perNight": 750,
+      "currency": "NOK"
+    },
+    "address": "Kristiansand",
+    "pricePerNight": 750,
+    "mainImageUrl": "/uploads/1769790930029-8502889fc8884.jpg",
+    "ownerDeviceId": "8d63265b-65fd-4eb3-a373-2f540aac42c2",
+    "id": "8a466f13-b218-4ec3-a708-9653b4f8dbce",
+    "status": "published",
+    "createdAt": "2026-01-30T17:11:40.462Z",
+    "category": "campingplass"
+  },
+  {
+    "title": "Campingplass",
+    "locationText": "",
+    "location": {},
+    "description": "Fin plass like ved elv. Mulighet for fiske",
+    "suitability": [],
+    "availableFrom": "",
+    "availableTo": "",
+    "images": [
+      {
+        "url": "/uploads/1769790930029-8502889fc8884.jpg"
+      }
+    ],
+    "price": {
+      "perNight": 750,
+      "currency": "NOK"
+    },
+    "address": "Kristiansand",
+    "pricePerNight": 750,
+    "mainImageUrl": "/uploads/1769790930029-8502889fc8884.jpg",
+    "ownerDeviceId": "8d63265b-65fd-4eb3-a373-2f540aac42c2",
+    "id": "2c787446-b5bb-4039-af55-22631f1bf95b",
+    "status": "published",
+    "createdAt": "2026-01-30T16:37:02.272Z",
+    "category": "campingplass"
+  },
+  {
+    "title": "Bobilplass Mosjøen",
+    "description": "Flott plass ved god fiskeelv. Tilgang på strøm og vann.",
+    "location": {
+      "address": "Mosjøen"
+    },
+    "price": {
+      "perNight": 350,
+      "currency": "NOK"
+    },
+    "images": [
+      {
+        "url": "/uploads/1769364655678-54c0bd6c1aa918.jpg"
+      },
+      {
+        "url": "/uploads/1769364668661-4c9ec39ffe0188.jpg"
+      },
+      {
+        "url": "/uploads/1769364684476-9d1d8d0a87ff88.jpg"
+      }
+    ],
+    "mainImageUrl": "/uploads/1769364668661-4c9ec39ffe0188.jpg",
+    "id": "63fe3b7c-8def-42a4-b02d-b9e8bb2b0eb9",
+    "status": "published",
+    "createdAt": "2026-01-25T19:05:37.513Z",
+    "category": "bobilplass"
+  },
+  {
+    "title": "Båtplass i Arendal",
+    "description": "Nydelig plass i Arendal sentrum, tilgang på strøm og vann.",
+    "location": {
+      "address": "Arendal"
+    },
+    "price": {
+      "perNight": 650,
+      "currency": "NOK"
+    },
+    "images": [
+      {
+        "url": "/uploads/1769358768738-356ca7212ebcc8.jpg"
+      },
+      {
+        "url": "/uploads/1769358777561-d7a13f92e5aa58.jpg"
+      }
+    ],
+    "mainImageUrl": "/uploads/1769358768738-356ca7212ebcc8.jpg",
+    "id": "1d859703-8e03-4c93-86ee-a7aa10a0d353",
+    "status": "published",
+    "createdAt": "2026-01-25T16:34:34.972Z",
+    "category": "batplass"
+  },
+  {
+    "id": "3d1037f7-f7be-4f3e-9386-928b476d4f63",
+    "status": "published",
+    "createdAt": "2026-01-25T13:34:01.021Z",
+    "title": "bobilplass ved sjøen",
+    "description": "Her har du nydelig utsikt, og tilgang til fiske i elven like ved.",
+    "location": {
+      "address": "egersund"
+    },
+    "price": {
+      "perNight": 900,
+      "currency": "NOK"
+    },
+    "images": [
+      {
+        "url": "/uploads/1769348037089-36a63870c4c9.jpeg"
+      }
+    ],
+    "category": "bobilplass"
+  },
+  {
+    "id": "516fc09e-5112-4286-9d7b-55a0e291411d",
+    "status": "published",
+    "createdAt": "2026-01-25T13:18:04.625Z",
+    "title": "Bobilplass på fjellet",
+    "description": "nissen kommer på besøk for å gi deg gaver",
+    "location": {
+      "address": "Egersund"
+    },
+    "price": {
+      "perNight": 350,
+      "currency": "NOK"
+    },
+    "images": [
+      {
+        "url": "/uploads/1769346836995-15feae029a63.jpeg"
+      }
+    ],
+    "category": "bobilplass"
+  }
+]
